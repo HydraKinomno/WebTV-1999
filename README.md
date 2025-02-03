@@ -1,20 +1,19 @@
-# WebTV HD
+# WebTV 1999
 ![WebTV HD logo](https://skcro.github.io/WebTV-HD/Logo.svg)
 
-<sub>Previously known as "WebTV-CSS-Remake".</sub>
+<sub>Previously known as "RepTV".</sub>
 
-A project that aims to recreate WebTV's UI, page design, and some functionality, using modern web technologies, mainly HTML5, CSS3, and some wacky JS :P
+A project that aims to recreate WebTV's 1999 UI, page design, and some functionality, using modern web technologies, mainly HTML5, CSS3, and some wacky JS :P
 
 For those who are unfamilliar, WebTV was an internet access device released in 1996 by a company called WebTV Networks. It was later bought by Microsoft and rebranded to MSN TV. If you want more info on it, check out the [Wikipedia article](https://en.wikipedia.org/wiki/MSN_TV).
 
-## How do I try it out?
-### Head on over to the **[GitHub Pages instance](https://SKCro.github.io/WebTV-HD/)** if you'd like to try it out.
+{SERVICE NOT HOSTED YET!}
 
-Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://SKCro.destroytheos.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
+Alternatively, if you'd like to try the latest, bleeding-edge changes to the code, check out the "[Daily service](https://serv00.net/)" (a self-hosted version) instead. **Note that it might not be online all the time as it is running off my computer, which isn't always powered on or connected to the network. As usual with beta stuff, expect lots of bugs, incomplete features, and downtime.**
 
 Firefox is recommended - the progress bar animation and some JS timing stuff is a bit broken on Chrome due to differences in their browser engines. <sub>**You shouldn't be using Chrome if you support open-source software anyway!**</sub>
 
-If anything is broken for you (and you're using a reasonably modern browser), **please [file a bug report](https://github.com/SKCro/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+)** and tell me the issue, which browser you used, and your screen resolution. Provide a screenshot if possible.
+If anything is broken for you (and you're using a reasonably modern browser), **please [file a bug report](https://github.com/marioo/WebTV-HD/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBug%5D+)** and tell me the issue, which browser you used, and your screen resolution. Provide a screenshot if possible.
 
 Alternatively, DM me on Discord - username is `SKCro`.
 
